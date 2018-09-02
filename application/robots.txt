@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://awsmbroz.com/new_sitemap.xml.gz
+Sitemap: http://awsmbroz.com/new_sitemap.xml.gz.gz
